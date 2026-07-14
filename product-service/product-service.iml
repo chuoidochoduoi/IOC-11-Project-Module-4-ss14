@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleWizardSettings">
+    <option name="createTest" type="boolean" value="true" />
+    <option name="createMain" type="boolean" value="true" />
+    <option name="markAsResources" type="boolean" value="true" />
+    <option name="languageLevel" type="number" value="8" />
+  </component>
+  <ordering />
+</module>
